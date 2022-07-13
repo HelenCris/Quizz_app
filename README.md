@@ -1,4 +1,4 @@
-# App Musical Instruments
+# Quizz App
 
 
 ### 🛠 Technologies
