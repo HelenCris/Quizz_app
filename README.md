@@ -1,5 +1,8 @@
 # Quizz App
 
+https://user-images.githubusercontent.com/79730539/178843991-a63d27ac-e857-4245-b0ca-ea9f44b3c8ee.mp4
+
+
 ### 🛠 Technologies
 
 This project was developed with the following technologies:
@@ -38,3 +41,4 @@ $ flutter run
 
 
 Made by Helen Cris :wave: [Get in touch!](https://www.linkedin.com/in/helen-cris-fernandes/)
+
