@@ -28,10 +28,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Andr
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/HelenCris/app_musical_instruments
+$ git clone https://github.com/HelenCris/quizz_app
 
 # Go into the repository
-$ cd app_vidente_virtual
+$ cd quizz_app
 
 # Run the app 
 $ flutter run
